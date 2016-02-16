@@ -62,7 +62,6 @@ function bodyUpdate(headerClick) {
             var print = ""
             for (var i = 0; i < video.length; i++) {
                 print += video[i];
-                console.log(print);
             }
             bodyText.innerHTML = print;
             break;
