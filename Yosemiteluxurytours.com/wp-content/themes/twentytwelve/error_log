@@ -1,3 +1,0 @@
-[27-Dec-2013 17:02:23] PHP Fatal error:  Call to undefined function  get_header() in /home/riverpar/public_html/wp-content/themes/twentytwelve/404.php on line 10
-[25-May-2014 09:30:57] PHP Fatal error:  Call to undefined function  get_header() in /home/riverpar/public_html/wp-content/themes/twentytwelve/tag.php on line 14
-[31-May-2014 02:34:20] PHP Fatal error:  Call to undefined function  get_header() in /home/riverpar/public_html/wp-content/themes/twentytwelve/404.php on line 10
