@@ -1,0 +1,2 @@
+[31-Jan-2014 23:48:07] PHP Fatal error:  Call to undefined function  add_action() in /home/riverpar/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[15-Mar-2014 09:21:39] PHP Fatal error:  Call to undefined function  add_action() in /home/riverpar/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

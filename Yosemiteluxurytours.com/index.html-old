@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>New Homepage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+body {
+	background-image: url();
+	background-repeat: no-repeat;
+	margin-left: 0%;
+	margin-top: 0%;
+	margin-right: 0%;
+	margin-bottom: 0%;
+}
+a {
+	font-size: large;
+}
+body,td,th {
+	color: #FF9;
+}
+</style>
+<script src='/google_analytics_auto.js'></script></head>
+<body bgcolor="#FFFFFF" tracingsrc="New_Homepage.jpg" tracingopacity="95">
+<p><img src="New _Homepage.jpg" width="1728" height="1080" usemap="#Map" border="0">
+  <map name="Map">
+    <area shape="rect" coords="695,870,1118,982" href="BigsInfopage.html">
+  </map>
+<!-- Save for Web Slices (New_Homepage.jpg) --><!-- End Save for Web Slices --></p>
+
+</body>
+</html>

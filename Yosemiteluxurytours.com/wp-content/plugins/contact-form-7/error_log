@@ -1,0 +1,2 @@
+[25-Feb-2014 13:41:35] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/riverpar/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35
+[26-Feb-2014 12:49:50] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/riverpar/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35
